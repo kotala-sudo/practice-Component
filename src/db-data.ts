@@ -28,7 +28,7 @@ export const COURSES: any = [
 
   {
     id: 4,
-    title: 'CSci 313: Advanced Software Development',
+    title: 'CSci 313: Software Development with Frameworks',
     iconUrl: 'https://www.ndsu.edu/themes/ndsu/logo.svg',
     longDescription: 'Introduction to modern software frameworks',
     level: '200 level',
