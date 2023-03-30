@@ -4,7 +4,10 @@
 }
 
 .logo {
-  max-height: 75px;
+  text-align: center;
+  font-family: Times;
+  font-size: 3rem;
+  color: #ffc82e;
 }
 
 img {
